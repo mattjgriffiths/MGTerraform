@@ -1,0 +1,5 @@
+location            = "UK West"
+base_name	        = "UAT"
+environment         = "UAT"
+department          = "IT Development Team"
+owner               = "Zoe Griffiths"

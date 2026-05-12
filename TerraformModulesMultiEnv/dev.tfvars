@@ -1,5 +1,0 @@
-location            = "UK West"
-base_name	        = "Dev"
-environment         = "Development"
-department          = "IT Development Team"
-owner               = "Zachary Griffiths"

@@ -1,5 +1,0 @@
-location            = "UK South"
-base_name	        = "Prod"
-environment         = "Production"
-department          = "Finance"
-owner               = "Mason Griffiths"
